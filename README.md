@@ -1,0 +1,3 @@
+- process_gee.ipynb: cleaned all shapefiles.
+- all_NDVI.ipynb: Extracted Sentinel-2 images from 20 days before sowing to 150 days after sowing date, calculated NDVI and reduced by each plots. (This need further modification)
+- draw.ipynb: draw trend lines by group.
